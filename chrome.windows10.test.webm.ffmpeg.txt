@@ -1,0 +1,8 @@
+ffmpeg -i chrome.windows10.test.webm
+
+Input #0, matroska,webm, from 'chrome.windows10.test.webm':
+  Metadata:
+    encoder         : Chrome
+  Duration: N/A, start: 0.000000, bitrate: N/A
+    Stream #0:0(eng): Audio: opus, 48000 Hz, mono, fltp (default)
+    Stream #0:1(eng): Video: h264 (Constrained Baseline), yuv420p(progressive), 640x480, SAR 1:1 DAR 4:3, 30.30 fps, 29.83 tbr, 1k tbn, 60 tbc (default)
