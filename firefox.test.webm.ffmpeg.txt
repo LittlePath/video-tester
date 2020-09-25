@@ -1,0 +1,8 @@
+ffmpeg -i firefox.test.webm
+
+Input #0, matroska,webm, from 'firefox.test.webm':
+  Metadata:
+    encoder         : QTmuxingAppLibWebM-0.0.1
+  Duration: N/A, start: -0.001000, bitrate: N/A
+    Stream #0:0(eng): Video: vp8, yuv420p(progressive), 640x480, SAR 1:1 DAR 4:3, 1k tbr, 1k tbn, 1k tbc (default)
+    Stream #0:1(eng): Audio: opus, 48000 Hz, mono, fltp (default)

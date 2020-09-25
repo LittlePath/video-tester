@@ -1,0 +1,9 @@
+ffmpeg -i chrome.test.webm
+
+Input #0, matroska,webm, from 'chrome.test.webm':
+  Metadata:
+    encoder         : Chrome
+  Duration: N/A, start: 0.000000, bitrate: N/A
+    Stream #0:0(eng): Audio: opus, 48000 Hz, mono, fltp (default)
+    Stream #0:1(eng): Video: h264 (Baseline), yuv420p(progressive), 640x480 [SAR 1:1 DAR 4:3], 1k tbr, 1k tbn, 2k tbc (default)
+
